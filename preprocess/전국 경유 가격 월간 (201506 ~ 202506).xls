@@ -1,0 +1,1550 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>싼 주유소 찾기 Opinet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="/css/user/sub.css"  media="screen" />
+	<!--[if IE 9]>
+		<link rel="stylesheet" type="text/css" href="/css/user/ie_9.css" />
+	<!--[endif]-->
+	<!--[if IE 8]-->
+		<link rel="stylesheet" type="text/css" href="/css/user/ie_8.css" />
+	<!--[endif]-->
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/css/user/ie_7.css" />
+	<![endif]-->
+</head>
+<body onload="">
+
+	<!-- 구분설정  -->
+	<div class="desc_box">
+		<div class="a_left">	
+		    <span><h2>주유소 제품별 평균 판매가격</h2></span>
+		    <span>구분 :
+            
+            
+            월간
+            
+            
+		    </span><br/>
+		    <span>기간:
+		    
+		    
+		    
+		    2015년&nbsp;06월&nbsp;~&nbsp;2025년&nbsp;06월
+            
+            
+            
+		    </span>
+		  <br/>
+		    <span>제품:
+		    
+		    
+		    자동차용경유&nbsp;
+		    
+		    		    
+		    </span><br/><br/>
+			<span class="result_date">
+	            
+	            
+	            
+	            2015년&nbsp;06월&nbsp;~&nbsp;2025년&nbsp;06월
+	            
+	            
+	            
+			</span>(원/리터)&nbsp;&nbsp;         
+<!-- 			<span class="value_hi">최고값</span> -->
+<!-- 			<span class="value_row">최저값</span> -->
+		</div>
+	</div>
+	 
+                 <input type="hidden" name="equal" id="equal" value ="N"/>
+
+                <div class="t_right"> 
+                    
+                    
+                    
+                        <table class="tbl_type10" summary="고급휘발유, 보통휘발유, 자동차용경유, 실내등유, 보일러등유 등을 확인 할 수 있습니다" border="1">
+                            <caption>제품별 평균판매가격 결과</caption>
+                            <thead>
+                                <tr>
+                                    <th class="nobd_l" scope="col">구분</th>         
+                                                                            
+                                       
+                                    
+                                                
+                                        <th scope="col" >자동차용경유</th>
+                                               
+                                    
+                                    
+                                </tr>
+                            </thead>
+                            
+                            <tbody> 
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2015년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1368.80</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2015년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1354.65</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2015년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1307.77</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2015년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1263.79</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2015년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1251.92</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2015년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1234.95</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2015년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1211.03</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1157.33</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1101.12</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1103.15</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1121.36</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1157.91</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1225.25</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1228.37</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1207.22</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1203.04</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1211.14</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1222.73</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2016년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1249.65</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1300.18</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1307.50</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1297.28</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1277.84</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1271.39</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1251.47</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1229.81</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1244.87</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1271.01</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1295.61</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1313.02</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2017년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1332.35</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1344.93</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1360.41</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1354.58</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1349.06</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1380.24</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1410.01</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1411.85</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1419.13</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1438.93</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1485.02</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1424.66</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2018년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1324.11</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1249.41</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1242.91</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1269.16</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1316.42</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1385.31</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1379.77</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1352.84</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1351.92</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1379.84</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1387.73</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1380.51</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2019년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1385.42</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1398.40</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1369.85</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1280.77</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1132.44</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1065.79</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1127.90</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1162.90</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1163.56</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1154.45</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1133.96</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1119.60</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2020년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1168.32</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1242.35</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1263.36</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1312.63</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1332.74</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1338.81</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1374.36</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1425.54</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1440.54</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1437.17</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1509.29</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1549.72</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2021년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1468.90</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1453.53</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1536.64</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1826.93</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1906.42</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1964.28</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>2089.03</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>2084.91</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1889.31</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1850.20</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1838.34</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1879.15</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2022년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1783.21</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1675.37</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1606.41</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1539.72</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1535.70</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1471.97</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1394.48</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1396.48</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1573.16</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1666.53</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1690.31</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1628.22</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2023년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1526.31</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1480.07</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1517.75</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1538.97</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1557.77</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1539.59</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1487.54</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년07월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1542.46</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년08월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1528.85</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년09월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1458.22</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년10월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1421.44</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년11월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1461.04</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2024년12월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1497.25</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2025년01월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1563.53</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2025년02월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1594.01</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2025년03월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1555.03</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2025년04월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1513.21</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2025년05월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1502.15</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <th scope="row" class="nobd_l t_center">2025년06월</th>
+                                                                         
+                                    
+                                    
+                                    
+                                    <td>1505.43</td>
+                                    
+                                    
+                                    
+                                </tr>
+                                
+                            </tbody>
+                            
+                            
+                        </table>    
+                    
+                </div>
+	
+</body>
+</html>
+
